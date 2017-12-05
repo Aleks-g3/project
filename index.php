@@ -4,6 +4,6 @@
 	<title>strona glowna</title>
 </head>
 <body>
-
+kjgjkgk
 </body>
 </html>
